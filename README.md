@@ -19,6 +19,9 @@ Jiang, L., Fan, H., Li, J., & Tu, C. (2021). Pseudo‐Siamese residual atrous py
 }
 ````
 
+# Requirements
+The code is based on Pytorch, you can use an Anaconda environment and download the requirements.
+
 # Experiments
 ![BNT{LR}JK6Z418QNY 55Y9R](https://user-images.githubusercontent.com/76153473/134174737-3fa5c806-b28f-4de2-980b-600f0477564a.png)
 The overall network structure of R-PSNN.
