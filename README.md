@@ -31,7 +31,7 @@ The overall network structure of R-PSNN.
 ![metric](https://user-images.githubusercontent.com/76153473/134173286-c26be936-7b65-4a25-a7a2-d82dda5b169c.png)
 The objective metrics comparison of various methods in several fusion images, The colored values are the best experimental results.
 
-We also provide the original results of 'Comparison of objective metrics', see 'metrics.xlsx' for detials.
+We also provide the original results of 'Comparison of objective metrics', see '[metrics.xlsx](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/blob/main/metrics.xlsx)' for detials.
 For the citation of evaluation metrics, please refer to the relevant section(4.4.1) in the paper. Our paper is open source.
 
 ![comparison](https://user-images.githubusercontent.com/76153473/134175024-a5d7a10a-0d35-489a-9240-c25fd4ed1b9e.png)
