@@ -16,14 +16,14 @@ Jiang, L., Fan, H., Li, J., & Tu, C. (2021). Pseudo‐Siamese residual atrous py
   publisher={Wiley Online Library}
 }
 
-[2.pdf](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/files/7203119/2.pdf)
+![2.pdf](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/files/7203119/2.pdf)
 The overall network structure of R-PSNN.
 
-[metric](https://user-images.githubusercontent.com/76153473/134173286-c26be936-7b65-4a25-a7a2-d82dda5b169c.png)
+![metric](https://user-images.githubusercontent.com/76153473/134173286-c26be936-7b65-4a25-a7a2-d82dda5b169c.png)
 The objective metrics comparison of various methods in several fusion images, The colored values are the best experimental results.
 
 We also provide the original results of ‘Comparison of objective metrics’, see 'metrics.xlsx' for detials.
 For the reference of evaluation metrics, please refer to the relevant section in the paper. The paper is open source.
 
-[13.pdf](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/files/7203182/13.pdf)
+![13.pdf](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/files/7203182/13.pdf)
 Performance and detail comparison of all methods on the ‘Lytro-05’ multi-focus image pair.
