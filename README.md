@@ -8,6 +8,7 @@ Depth of field is one of the critical reasons to limit the richness of image inf
 
 If you want to use this code in your research, please quote:
 Jiang, L., Fan, H., Li, J., & Tu, C. (2021). Pseudo‐Siamese residual atrous pyramid network for multi‐focus image fusion. IET Image Processing.
+
 @article{jiang2021pseudo,
   title={Pseudo-Siamese residual atrous pyramid network for multi-focus image fusion},
   author={Jiang, Limai and Fan, Hui and Li, Jinjiang and Tu, Changhe},
