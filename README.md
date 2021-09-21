@@ -33,4 +33,4 @@ For the citation of evaluation metrics, please refer to the relevant section(4.4
 Performance and detail comparison of all methods on the ‘Lytro-05’ multi-focus image pair.
 
 # Acknowledgement
-The authors acknowledge the National Natural Science Foundation of China (Grant nos. 61772319, 62002200, 61976125, 61976124 and 12001327), and Shandong Natural Science Foundation of China (Grant no. ZR2017MF049).
+The authors acknowledge the National Natural Science Foundation of China (Grant nos. 61772319, 62002200, 61976125, 61976124 and 12001327), and Shandong Natural Science Foundation of China (Grant no. ZR2017MF049).
