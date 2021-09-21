@@ -19,6 +19,7 @@ Jiang, L., Fan, H., Li, J., & Tu, C. (2021). Pseudo‐Siamese residual atrous py
 }
 ````
 
+# Experiments
 ![BNT{LR}JK6Z418QNY 55Y9R](https://user-images.githubusercontent.com/76153473/134174737-3fa5c806-b28f-4de2-980b-600f0477564a.png)
 The overall network structure of R-PSNN.
 
@@ -30,3 +31,6 @@ For the citation of evaluation metrics, please refer to the relevant section(4.4
 
 ![9$J0G9IATKTCCHIJ44F@9WW](https://user-images.githubusercontent.com/76153473/134175024-a5d7a10a-0d35-489a-9240-c25fd4ed1b9e.png)
 Performance and detail comparison of all methods on the ‘Lytro-05’ multi-focus image pair.
+
+# Acknowledgement
+The authors acknowledge the National Natural Science Foundation of China (Grant nos. 61772319, 62002200, 61976125, 61976124 and 12001327), and Shandong Natural Science Foundation of China (Grant no. ZR2017MF049).
