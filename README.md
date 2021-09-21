@@ -1,6 +1,7 @@
 # R-PSNN-for-multi-focus-image-fusion
 
-Code for the paper: Pseudo-Siamese residual atrous pyramid network for multi-focus image fusion
+Code for the paper: Pseudo-Siamese residual atrous pyramid network for multi-focus image fusion.
+
 A simple and fast multi-focus image fusion method R-PSNN based on regression model.
 
 ## Abstract: 
