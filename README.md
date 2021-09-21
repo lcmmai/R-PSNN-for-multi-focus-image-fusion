@@ -36,7 +36,7 @@ For the citation of evaluation metrics, please refer to the relevant section(4.4
 ![comparison](https://user-images.githubusercontent.com/76153473/134175024-a5d7a10a-0d35-489a-9240-c25fd4ed1b9e.png)
 Performance and detail comparison of all methods on the 'Lytro-05' multi-focus image pair.
 
-We also provide [results](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/tree/main/Test_result) on four commonly used multi-focus image test sets.
+We also provide the [trained model](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/tree/main/model) and [results](https://github.com/lcmmai/R-PSNN-for-multi-focus-image-fusion/tree/main/Test_result) on four commonly used multi-focus image test sets.
 
 ## Acknowledgement
 The authors acknowledge the National Natural Science Foundation of China (Grant nos. 61772319, 62002200, 61976125, 61976124 and 12001327), and Shandong Natural Science Foundation of China (Grant no. ZR2017MF049).
